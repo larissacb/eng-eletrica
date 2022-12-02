@@ -1,10 +1,10 @@
-#Informações Importantes - Eng. Elétrica CEFET-MG
+# Informações Importantes - Eng. Elétrica CEFET-MG
 
-#Coordenação
+# Coordenação
 
-##E-mail: engeletrica-ng@cefetmg.br
+## E-mail: engeletrica-ng@cefetmg.br
 
-##Horários de atendimento da secretaria:
+## Horários de atendimento da secretaria:
 Segunda a Quinta, 9h às 11h e 14h às 16h.
 Observações:
 1. Não haverá atendimento externo às sextas-feiras.
@@ -12,13 +12,13 @@ Observações:
 
 A Secretaria da Coordenação está localizada no Prédio Principal do Campus Nova Gameleira, 2º andar, sala 257 (próximo aos laboratórios)
 
-##Requerimentos
+## Requerimentos
 https://www.eng-eletrica.bh.cefetmg.br/coordenacao/formularios/
 
-#Calendários
+# Calendários
 https://www.dirgrad.cefetmg.br/dirgrad/calendario/
 
-#Bandejão - Cardápio e Horários de Funcionamento
+# Bandejão - Cardápio e Horários de Funcionamento
 https://www.dde.cefetmg.br/apresentacao-dos-restaurantes/cardapios/
 
 #Faltas
@@ -29,16 +29,16 @@ https://www.dde.cefetmg.br/apresentacao-dos-restaurantes/cardapios/
 |  60  |            7           |
 |  90  |           11           |
 
-#Setor de Estágio/Cefet Carreiras
+# Setor de Estágio/Cefet Carreiras
 
-##Formulários de Estágio da Graduação:
+## Formulários de Estágio da Graduação:
 https://cefetcarreiras.com.br/estagio-graduacao/
 
 Os documentos de estágio devem ser entregues presencialmente na sala 425 do Campus 1.
 
 O horário de atendimetno dos setores administrativos é de 8h às 18h, de segunda a sexta-feira.
 
-#Verificar Processos no SIPAC
+# Verificar Processos no SIPAC
 Para verificar o andamento dos processos de estágio e qualquer processo que você seja o interessado, acessar o site do SIPAC público:
 https://sig.cefetmg.br/public/jsp/portal.jsf
 
