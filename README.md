@@ -55,5 +55,13 @@ https://sig.cefetmg.br/public/jsp/portal.jsf
 
 Consultas -> Processos -> Pesquisar utilizando uma das opções de busca de processos
 
+# E-mail institucional
+{sua matrícula}@aluno.cefetmg.br
+Você não tem acesso a caixa de entrada deste e-mail. Qualquer mensagem que for enviada para este endereço será encaminhada para o seu e-mail pessoal cadastrado no SIGAA.
+
+Com o e-mail institucional você consegue pedir o desconto de estudantes para o [Spotify Universitário](https://www.spotify.com/br/student/), [desconto dos produtos da Samsung](https://estudantes.samsung.com.br/), [Linked Premium por 6 meses](https://members.linkedin.com/pt-br/estudante/linkedin-premium?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&trk=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&clickid=0YnxKISUKxyIUo60yRxfmyBLUkDzotTIUSUX2M0&mcid=6851962469594763264&irgwc=1), usar o pacote office online e pedir licenças de alguns softwares, como por exemplo, o PLECS.
+
+
+
 
 
