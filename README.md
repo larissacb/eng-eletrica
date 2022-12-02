@@ -6,7 +6,8 @@
 * [Drive antigo](https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8)
 * [Manual do calouro](https://drive.google.com/file/d/1lwZaGMwcfq7SgMHHjuR7OoVLdsCmWSal/view)
 
-#Estrutura Curricular do Curso
+# Estrutura Curricular do Curso
+
 [Disciplinas obrigatórias, pré e corequisitos](https://www.eng-eletrica.bh.cefetmg.br/wp-content/uploads/sites/191/2019/03/Estrutura_curricular1.pdf)
 
 
