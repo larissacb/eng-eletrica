@@ -64,12 +64,12 @@ Consultas -> Processos -> Pesquisar utilizando uma das opções de busca de proc
 Você não tem acesso a caixa de entrada deste e-mail. Qualquer mensagem que for enviada para este endereço será encaminhada para o seu e-mail pessoal cadastrado no SIGAA.
 
 Com o e-mail institucional você consegue:
-* [Spotify Universitário](https://www.spotify.com/br/student/). 
+* [Spotify Universitário](https://www.spotify.com/br/student/)
 * [YouTube Premium para Estudantes](https://support.google.com/youtube/answer/9158808?hl=pt-BR&co=GENIE.Platform%3DAndroid)
-* [Desconto dos produtos da Samsung](https://estudantes.samsung.com.br/).
+* [Desconto dos produtos da Samsung](https://estudantes.samsung.com.br/)
 * [LinkedIn Premium por 6 meses](https://members.linkedin.com/pt-br/estudante/linkedin-premium?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&trk=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&clickid=0YnxKISUKxyIUo60yRxfmyBLUkDzotTIUSUX2M0&mcid=6851962469594763264&irgwc=1).
 * [Acesso ao pacote office online de 1TB de armazenamento no One Drive](https://www.microsoft.com/pt-br/education/products/office).
-* Pedir licenças de alguns softwares, como por exemplo, o PLECS.
+* Pedir licenças de alguns softwares.
 
 # Programa de vantagens para quem usa transporte público
 Para quem usa transporte público para se locomover em BH e região metropolitana existe um programa de acúmulo de pontos chamado Econobuz. Pode ser usado também por quem usa cartão Ótimo. Os pontos podem ser trocados por recarga no seu cartão de ônibus (o/a universitário(a) pobre agradece).
