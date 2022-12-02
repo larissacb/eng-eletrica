@@ -2,7 +2,7 @@
 
 # Coordenação
 
-## E-mail: engeletrica-ng@cefetmg.br
+E-mail: engeletrica-ng@cefetmg.br
 
 ## Horários de atendimento da secretaria:
 Segunda a Quinta, 9h às 11h e 14h às 16h.
