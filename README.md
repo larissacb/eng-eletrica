@@ -71,6 +71,13 @@ Com o e-mail institucional você consegue:
 * [Acesso ao pacote office online de 1TB de armazenamento no One Drive](https://www.microsoft.com/pt-br/education/products/office).
 * Pedir licenças de alguns softwares, como por exemplo, o PLECS.
 
+# Programa de vantagens para quem usa transporte público
+Para quem usa transporte público para se locomover em BH e região metropolitana existe um programa de acúmulo de pontos chamado Econobuz. Pode ser usado também por quem usa cartão Ótimo. Os pontos podem ser trocados por recarga no seu cartão de ônibus (o/a universitário pobre agradece).
+
+Se tiver interesse, faça o cadastro por esse [link](https://www.ecobonuz.com/public/cadastrar?indicationCode=LARISSA4867). Em seguida, cadastre o seu cartão de ônibus e participe das missões que eles liberam semanalmente! Uma boa ideia é baixar o app no seu celular porque eles sempre enviam uma notificação quando tem missão nova!
+
+[Notícia: Cartão BHBUS terá benefícios como acúmulo de pontos e pagamento de contas](https://www.otempo.com.br/cidades/cartao-bhbus-tera-beneficios-como-acumulo-de-pontos-e-pagamento-de-contas-1.2370952)
+
 
 
 
