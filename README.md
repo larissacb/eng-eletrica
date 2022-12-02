@@ -1,14 +1,22 @@
 # Informações Importantes - Eng. Elétrica CEFET-MG
 
 # Links úteis
-Whatsapp: https://chat.whatsapp.com/4YngQkZsVUX4oBY7WJIpSY
+* [Whatsapp](https://chat.whatsapp.com/4YngQkZsVUX4oBY7WJIpSY)
+* [Discord](https://discord.gg/VumXyd2)
+* [Drive antigo](https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8)
+* [Manual do calouro](https://drive.google.com/file/d/1lwZaGMwcfq7SgMHHjuR7OoVLdsCmWSal/view)
 
-Discord: https://discord.gg/VumXyd2
+#Estrutura Curricular do Curso
+[Disciplinas obrigatórias, pré e corequisitos](https://www.eng-eletrica.bh.cefetmg.br/wp-content/uploads/sites/191/2019/03/Estrutura_curricular1.pdf)
 
-Drive antigo: https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8
 
-Manual do calouro: https://drive.google.com/file/d/1lwZaGMwcfq7SgMHHjuR7OoVLdsCmWSal/view
+# Faltas
 
+|CH (h)| Máximo de Faltas (dias)|
+|:----:|:---------------------:|
+|  30  |            3           |
+|  60  |            7           |
+|  90  |           11           |
 
 # Coordenação
 
@@ -25,17 +33,11 @@ A Secretaria da Coordenação está localizada no Prédio Principal do Campus No
 #### Requerimentos
 https://www.eng-eletrica.bh.cefetmg.br/coordenacao/formularios/
 
+# Diretoria de Graduação
+* [Calendários](https://www.dirgrad.cefetmg.br/dirgrad/calendario/)
+* [Guia acadêmico da graduação 2019/1](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2019/01/2019_1_Guia_Graduacao_A5_CEFETMG_WEB.pdf)
+* [Normas acadêmicas da graduação](https://copeve.cefetmg.br/processos/20212_REO/arquivos/publicacoes/resolucao-cepe-12-07-normas-academicas-da-graduacao-do-cefet-mg/download)
 
-# Faltas
-
-|CH (h)| Máximo de Faltas (dias)|
-|:----:|:---------------------:|
-|  30  |            3           |
-|  60  |            7           |
-|  90  |           11           |
-
-# Calendários
-https://www.dirgrad.cefetmg.br/dirgrad/calendario/
 
 # Bandejão - Cardápio e Horários de Funcionamento
 https://www.dde.cefetmg.br/apresentacao-dos-restaurantes/cardapios/
