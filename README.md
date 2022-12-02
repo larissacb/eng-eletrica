@@ -42,7 +42,7 @@ https://www.dde.cefetmg.br/apresentacao-dos-restaurantes/cardapios/
 
 # Setor de Estágio/Cefet Carreiras
 
-## Formulários de Estágio da Graduação:
+#### Formulários de Estágio da Graduação:
 https://cefetcarreiras.com.br/estagio-graduacao/
 
 Os documentos de estágio devem ser entregues presencialmente na sala 425 do Campus 1.
