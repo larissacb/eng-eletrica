@@ -24,7 +24,7 @@ https://www.dde.cefetmg.br/apresentacao-dos-restaurantes/cardapios/
 #Faltas
 
 |CH (h)| Máximo de Faltas (dias)|
-|------|------------------------|
+|:----:|:---------------------:|
 |  30  |            3           |
 |  60  |            7           |
 |  90  |           11           |
