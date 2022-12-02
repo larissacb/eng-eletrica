@@ -57,6 +57,7 @@ Consultas -> Processos -> Pesquisar utilizando uma das opções de busca de proc
 
 # E-mail institucional
 {sua matrícula}@aluno.cefetmg.br
+
 Você não tem acesso a caixa de entrada deste e-mail. Qualquer mensagem que for enviada para este endereço será encaminhada para o seu e-mail pessoal cadastrado no SIGAA.
 
 Com o e-mail institucional você consegue:
