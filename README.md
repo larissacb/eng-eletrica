@@ -4,7 +4,7 @@
 
 E-mail: engeletrica-ng@cefetmg.br
 
-## Horários de atendimento da secretaria:
+#### Horários de atendimento da secretaria:
 Segunda a Quinta, 9h às 11h e 14h às 16h.
 Observações:
 1. Não haverá atendimento externo às sextas-feiras.
@@ -12,8 +12,17 @@ Observações:
 
 A Secretaria da Coordenação está localizada no Prédio Principal do Campus Nova Gameleira, 2º andar, sala 257 (próximo aos laboratórios)
 
-## Requerimentos
+#### Requerimentos
 https://www.eng-eletrica.bh.cefetmg.br/coordenacao/formularios/
+
+
+# Faltas
+
+|CH (h)| Máximo de Faltas (dias)|
+|:----:|:---------------------:|
+|  30  |            3           |
+|  60  |            7           |
+|  90  |           11           |
 
 # Calendários
 https://www.dirgrad.cefetmg.br/dirgrad/calendario/
@@ -21,7 +30,7 @@ https://www.dirgrad.cefetmg.br/dirgrad/calendario/
 # Bandejão - Cardápio e Horários de Funcionamento
 https://www.dde.cefetmg.br/apresentacao-dos-restaurantes/cardapios/
 
-#Faltas
+# Faltas
 
 |CH (h)| Máximo de Faltas (dias)|
 |:----:|:---------------------:|
