@@ -1,5 +1,13 @@
 # Informações Importantes - Eng. Elétrica CEFET-MG
 
+# Links úteis
+Whatsapp: https://chat.whatsapp.com/4YngQkZsVUX4oBY7WJIpSY
+Discord: https://discord.gg/VumXyd2
+Drive antigo: https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8
+
+Manual do calouro: https://drive.google.com/file/d/1lwZaGMwcfq7SgMHHjuR7OoVLdsCmWSal/view
+
+
 # Coordenação
 
 E-mail: engeletrica-ng@cefetmg.br
@@ -29,14 +37,6 @@ https://www.dirgrad.cefetmg.br/dirgrad/calendario/
 
 # Bandejão - Cardápio e Horários de Funcionamento
 https://www.dde.cefetmg.br/apresentacao-dos-restaurantes/cardapios/
-
-# Faltas
-
-|CH (h)| Máximo de Faltas (dias)|
-|:----:|:---------------------:|
-|  30  |            3           |
-|  60  |            7           |
-|  90  |           11           |
 
 # Setor de Estágio/Cefet Carreiras
 
