@@ -71,6 +71,18 @@ Com o e-mail institucional você consegue:
 * [Acesso ao pacote office online de 1TB de armazenamento no One Drive](https://www.microsoft.com/pt-br/education/products/office).
 * Pedir licenças de alguns softwares.
 
+#### Licença PLECS
+Através do e-mail institucional você consegue obter a licença do PLECS por 1 ano, um software que é muito parecido com o Simulink, porém é mais leve e permite a análise térmica de circuitos.
+
+Tutorial: 
+1) Acessar o [site](https://plexim.com/download/standalone) para download.
+2) Após a instalação:
+  * 'Open license manager'.
+  * 'Request license'.
+  * 'Student licence' (usar o código: 4rm-Lk44ChF4) -> marcar a caixa 'PLECS coder' -> 'open web form'.
+  *  Preencher com o e-mail institucional.
+
+
 # Programa de vantagens para quem usa transporte público
 Para quem usa transporte público para se locomover em BH e região metropolitana existe um programa de acúmulo de pontos chamado Econobuz. Pode ser usado também por quem usa cartão Ótimo. Os pontos podem ser trocados por recarga no seu cartão de ônibus (o/a universitário(a) pobre agradece).
 
