@@ -81,6 +81,8 @@ Tutorial:
   * 'Request license'.
   * 'Student licence' (usar o código: 4rm-Lk44ChF4) -> marcar a caixa 'PLECS coder' -> 'open web form'.
   *  Preencher com o e-mail institucional.
+  *  Você receberá no e-mail institucional em até 24h o arquivo de licença (verifique a caixa de spam). Salve no seu computador.
+  *  Abrir o PLECS -> 'open license manager' -> 'manage license files' e selecione o arquivo de licença.
 
 
 # Programa de vantagens para quem usa transporte público
