@@ -3,7 +3,8 @@
 # Links úteis
 * [Whatsapp](https://chat.whatsapp.com/4YngQkZsVUX4oBY7WJIpSY)
 * [Discord](https://discord.gg/VumXyd2)
-* [Drive antigo](https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8)
+* [Drive antigo - GDrive](https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8)
+* [Drive livros - OneDrive](https://1drv.ms/u/s!AhJMTQ4kOAAvgdh4goZprMT86TOPTQ?e=AIzTIg)
 * [Manual do calouro](https://drive.google.com/file/d/1lwZaGMwcfq7SgMHHjuR7OoVLdsCmWSal/view)
 
 # Estrutura Curricular do Curso
