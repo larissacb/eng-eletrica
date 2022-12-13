@@ -11,6 +11,80 @@
 
 [Disciplinas obrigatórias, pré e corequisitos](https://www.eng-eletrica.bh.cefetmg.br/wp-content/uploads/sites/191/2019/03/Estrutura_curricular1.pdf)
 
+# Grupos de Whatsapp das disciplinas
+
+### 3º período
+* [Circuitos Elétricos I](https://chat.whatsapp.com/EGJsZwcn6gCJ6WpXMQLCEX)
+* [Métodos Numéricos Computacionais](https://chat.whatsapp.com/DLKPsh0i2pJ1y8V7ggtU2v)
+* 
+### 4º período
+* [Circuitos Elétricos II](https://chat.whatsapp.com/FkJQq4G3XZT11UhCE8kQXq)
+* [Lab. Circuitos Elétricos II](https://chat.whatsapp.com/JIYI6BNpfDdFleSQSo4XDW)
+* [Tecnologia Aplicada aos Materiais Elétricos](https://chat.whatsapp.com/GevU3bYJSNF1UPadVQ7lUZ)
+* [Lab. Sistemas Digitais](https://chat.whatsapp.com/DdmjdJ7TmL5929qJikztc1)
+
+### 5º período
+* [Eletromagnetismo](https://chat.whatsapp.com/KxsHS0pahOMKju1PNMlVvK)
+* [Lab. Eletromagnetismo](https://chat.whatsapp.com/HGEiQfR1hboEHS35bSQVgX)
+* [Análise de Sistemas Lineares](https://chat.whatsapp.com/HU17mJ0P18a1motUhPxwm5)
+* [Lab. Análise de Sistemas Lineares](https://chat.whatsapp.com/ETriUeLCsUSAjJBaAEgaZJ)
+* [Sistemas Microprocessados](https://chat.whatsapp.com/C5uT8QxA5NABhiyyE1egnN)
+* [Lab. Sistemas Microprocessados](https://chat.whatsapp.com/Har0XiB3hMqIilaIL5vDyH)
+* [Dispositivos e Circuitos Eletrônicos](https://chat.whatsapp.com/BLCUvevMUyF3qX73feCFSs)
+* [Sistemas de Medição](https://chat.whatsapp.com/K3Z61vvl5P0IPfELklk1wY)
+
+### 6º período
+* [Eletrônica Geral](https://chat.whatsapp.com/H3GwFJTiZ1DF6r4pSymGEl)
+* [Lab. Eletrônica Geral](https://chat.whatsapp.com/DePRS420HPp1MDjnJlOHsB)
+* [Irradiação e Ondas Guiadas](https://chat.whatsapp.com/BaO9tWzm9M9C33csQNWW8P)
+* [Conversão de Energia](https://chat.whatsapp.com/Gs97yH2CoLY66fTti3T7tf)
+* [Lab. Conversão de Energia](https://chat.whatsapp.com/LtGUBoyFZbj20s0kUjyGiT)
+* [Controle de Processos](https://chat.whatsapp.com/IuTGEnyGwaC5dqeaX3gsz5)
+* [Lab. Controle de Processos](https://chat.whatsapp.com/JLYUlFE5eth1C3O7rgXpgz)
+* [Instalações Elétricas](https://chat.whatsapp.com/CX4uCFFu1WFH7mOddcNmXe)
+* [Lab. Sistemas de Medição](https://chat.whatsapp.com/JLyeDHxna96Kwg3FVMDSKS)
+
+### 7º período
+* [Sistemas Controlados por Computador](https://chat.whatsapp.com/LKR45j73hD9F5Ew25kda77)
+* [Lab. Sistemas Controlados por Computador](https://chat.whatsapp.com/BdlMKM8kq2TEiVCGsGymbe)
+* [Instrumentação Eletrônica](https://chat.whatsapp.com/GqpmDIk3n2T9lmChmayoEy)
+* [Lab. Instrumentação Eletrônica](https://chat.whatsapp.com/LPhfv2cMxJc3nX0JnFcBut)
+* [Sistemas de Comunicação](https://chat.whatsapp.com/GzOElSrX5vQBqDU8TCBOho)
+* [Lab. Sistemas de Comunicação](https://chat.whatsapp.com/B6ep7aTfQwODwnJylw3xSC)
+* [Máquinas Elétricas](https://chat.whatsapp.com/C5jEk2XgSh5LrzkwMJgDrY)
+* [Lab. Máquinas Elétricas](https://chat.whatsapp.com/J1bWF6QzGGU8B8cYhyHzQN)
+* [Eletrotécnica I](https://chat.whatsapp.com/F0ojoA5VKEABcaMkNRXDUo)
+
+
+### 8º período
+* [Instrumentação Industrial](https://chat.whatsapp.com/KJantn8pskx0tbAl9Kvjpe)
+* [Lab. Instrumentação Industrial](https://chat.whatsapp.com/Ep44axnhm188SHVBT6dYrZ)
+* [Transmissão e Recepção de Sinais](https://chat.whatsapp.com/L49w0vO3cmZKxJ31n0kOXW)
+* [Metodologia Científica](https://chat.whatsapp.com/H2Ja4t6bXznBjs7ae18zDq)
+* [Sistemas Elétricos de Potência](https://chat.whatsapp.com/JKWpoVYEqtpBrp4fzFZakK)
+* [TCC 1 e TCC 2](https://chat.whatsapp.com/H4exvXeXgSPJM0e9zVI4TL)
+
+### 9º período
+* [Metodologia da Pesquisa](https://chat.whatsapp.com/BDK1UEqlfbQJ1Eahrw8KEn)
+* [Psicologia Aplicada às Organizações](https://chat.whatsapp.com/K8MfDUkpjV01tzgrKaeMPh)
+* [Normalização e Qualidade Industrial](https://chat.whatsapp.com/CCSSfvA0SsKHA6qbWSTbQX)
+* [Introdução à Economia](https://chat.whatsapp.com/Fg90CV76nv9G6MGnvTzBPm)
+* [TCC 1 e TCC 2](https://chat.whatsapp.com/H4exvXeXgSPJM0e9zVI4TL)
+* 
+### 10º período
+* [Estágio Supervisionado](https://chat.whatsapp.com/JBpar8ueOD08kyP6aCkmoY)
+* [Introdução ao Direito](https://chat.whatsapp.com/KuvECbatdStGRVdV5wP0F0)
+
+### Optativas
+* [Optativa: Subestações e Equipamentos Elétricos](https://chat.whatsapp.com/GvSLnQxhyVrHJeswfXf57h)
+* [Optativa: Transitórios](https://chat.whatsapp.com/KNsF1bjEP6cEvcBOcEDIud)
+* [Optativa: Lab. Irradiação e Ondas Guiadas](https://chat.whatsapp.com/IPbwgjlGMiS9A5f0OGVRsp)
+* [Optativa: Transmissão de Energia Elétrica](https://chat.whatsapp.com/KVTdwKkiZMVHIw45dRc1T1)
+* [Optativa: Centrais Elétricas](https://chat.whatsapp.com/GfgetuBKN8604nBGtC5UoI)
+* [Optativa: Distribuição de Energia Elétrica](https://chat.whatsapp.com/KnX169VyrvnDY2LIvw05Ow)
+* [Optativa: Eletrônica de Potência](https://chat.whatsapp.com/KBxj5fmVDcNAj7Nvy5IMxh)
+* [Optativa: Sistemas de Automação Industrial I](https://chat.whatsapp.com/KqKOgKiRwGA0DdojtUbbUm)
+
 
 # Faltas
 
