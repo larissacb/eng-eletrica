@@ -92,10 +92,10 @@ Se tiver interesse, faça o cadastro por esse [link](https://www.ecobonuz.com/pu
 
 [Notícia: Cartão BHBUS terá benefícios como acúmulo de pontos e pagamento de contas](https://www.otempo.com.br/cidades/cartao-bhbus-tera-beneficios-como-acumulo-de-pontos-e-pagamento-de-contas-1.2370952)
 
-# Ajuda financeira no Coursera (Certificados de cursos de universidades do exterior)
-Uma maneira de aprimorar o seu conhecimento e seu currículo é com os cursos ofertados na plataforma Coursera. Várias universidades renomadas do Brasil e de fora possuem cursos nas mais diversas áreas de conhecimento neste site.
+# Ajuda financeira no Coursera (certificados de cursos de universidades do exterior)
+Uma maneira de aprimorar o seu conhecimento e seu currículo é com os cursos ofertados na plataforma [Coursera](https://www.coursera.org/). Várias universidades renomadas do Brasil e de fora possuem cursos nas mais diversas áreas de conhecimento neste site e após a aprovação do curso, o certificado pode ser adicionado no seu perfil do LinkedIn e ser usado em horas complementares.
 
-Na época da pandemia, o Coursera liberou o acesso ilimitado a plataforma e era possível conseguir os certificados de todos os cursos de forma gratuita através do e-mail institucional. Entretanto, agora esta parceria com as universidades acabou, mas uma forma de ainda conseguir um certificado é pela ajuda financeira.
+Na época da pandemia, o Coursera liberou o acesso ilimitado a plataforma e era possível obter os certificados de todos os cursos de forma gratuita através do e-mail institucional. Entretanto, agora esta parceria com as universidades acabou, mas uma forma de ainda conseguir um certificado é pela ajuda financeira.
 
 Através da ajuda financeira você consegue solicitar a isenção de até 100% no valor do curso e conseguir o certificado de graça. 
 Este [vídeo](https://youtu.be/oJ3YmZKG95s) apresenta um tutorial de como solicitar a ajuda financeira.
