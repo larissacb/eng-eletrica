@@ -70,7 +70,7 @@
 * [Normalização e Qualidade Industrial](https://chat.whatsapp.com/CCSSfvA0SsKHA6qbWSTbQX)
 * [Introdução à Economia](https://chat.whatsapp.com/Fg90CV76nv9G6MGnvTzBPm)
 * [TCC 1 e TCC 2](https://chat.whatsapp.com/H4exvXeXgSPJM0e9zVI4TL)
-* 
+
 ### 10º período
 * [Estágio Supervisionado](https://chat.whatsapp.com/JBpar8ueOD08kyP6aCkmoY)
 * [Introdução ao Direito](https://chat.whatsapp.com/KuvECbatdStGRVdV5wP0F0)
