@@ -3,7 +3,7 @@
 # Links úteis
 * [Whatsapp](https://chat.whatsapp.com/4YngQkZsVUX4oBY7WJIpSY)
 * [Discord](https://discord.gg/VumXyd2)
-* [Drive antigo - GDrive](https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8)
+* [Drive antigo - Google Drive](https://drive.google.com/drive/folders/1s0ck-bDLfjNBDbXn0nCVIizMamnM_dw8)
 * [Drive livros - OneDrive](https://1drv.ms/u/s!AhJMTQ4kOAAvgdh4goZprMT86TOPTQ?e=AIzTIg)
 * [Manual do calouro](https://drive.google.com/file/d/1lwZaGMwcfq7SgMHHjuR7OoVLdsCmWSal/view)
 
@@ -142,9 +142,9 @@ Com o e-mail institucional você consegue:
 * [Spotify Universitário](https://www.spotify.com/br/student/)
 * [YouTube Premium para Estudantes](https://support.google.com/youtube/answer/9158808?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 * [Desconto dos produtos da Samsung](https://estudantes.samsung.com.br/)
-* [LinkedIn Premium por 6 meses](https://members.linkedin.com/pt-br/estudante/linkedin-premium?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&trk=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&clickid=0YnxKISUKxyIUo60yRxfmyBLUkDzotTIUSUX2M0&mcid=6851962469594763264&irgwc=1).
-* [Acesso ao pacote office online de 1TB de armazenamento no One Drive](https://www.microsoft.com/pt-br/education/products/office).
-* Pedir licenças de alguns softwares.
+* [LinkedIn Premium por 6 meses](https://members.linkedin.com/pt-br/estudante/linkedin-premium?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&trk=aff_src.aff-lilpar_c.partners_pkw.121977_plc.digidip%20GmbH_pcrid._learning&clickid=0YnxKISUKxyIUo60yRxfmyBLUkDzotTIUSUX2M0&mcid=6851962469594763264&irgwc=1)
+* [Acesso ao pacote office online de 1TB de armazenamento no One Drive](https://www.microsoft.com/pt-br/education/products/office)
+* Pedir licenças de alguns softwares
 
 #### Licença PLECS
 Através do e-mail institucional você consegue obter a licença do PLECS por 1 ano, um software que é muito parecido com o Simulink, porém é mais leve e permite a análise térmica de circuitos.
