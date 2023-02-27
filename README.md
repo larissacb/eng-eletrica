@@ -84,6 +84,8 @@
 * [Optativa: Distribuição de Energia Elétrica](https://chat.whatsapp.com/KnX169VyrvnDY2LIvw05Ow)
 * [Optativa: Eletrônica de Potência](https://chat.whatsapp.com/KBxj5fmVDcNAj7Nvy5IMxh)
 * [Optativa: Sistemas de Automação Industrial I](https://chat.whatsapp.com/KqKOgKiRwGA0DdojtUbbUm)
+* [Optativa: Lab. Dispositivos e Circuitos Eletrônicos](https://chat.whatsapp.com/H9nFcQNdosYIhmS7Kp3guf)
+* [Optativa: Imagens Médicas](https://chat.whatsapp.com/BVf5eRNOyFV1bKFViaEns8)
 
 
 # Faltas
